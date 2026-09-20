@@ -1,3 +1,7 @@
+
+
+![KansasFest Banner](images/kansasfest-banner.png)
+
 # KansasFest
 
 KansasFest is the largest and longest running annual Apple II conference. Users, programmers, hobbyists, and retrocomputing enthusiasts are invited to our in-person and virtual events for days and nights of sessions, demos, announcements, contests, and camaraderie.
