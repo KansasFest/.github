@@ -1,6 +1,6 @@
 
 
-![KansasFest Banner](images/kansasfest-banner.png)
+![KansasFest Banner](images/kansasfest_logo.svg)
 
 # KansasFest
 
